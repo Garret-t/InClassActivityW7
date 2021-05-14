@@ -4,5 +4,5 @@ def palindrome(input):
     return False
 
 if __name__ == "__main__":
-    user_in = input('Enter a string: ')
+    user_in = input("Enter a string: ")
     print(palindrome(user_in))

@@ -1,4 +1,3 @@
-import pytest
 from palindrome import palindrome as pal
 #Test correct case for True
 def test_correct():
